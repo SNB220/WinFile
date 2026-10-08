@@ -80,6 +80,8 @@ Make `Get-RealFileType` a permanent command in every PowerShell window:
 
 ## 📖 Usage Examples
 
+![Example](illustration/Get_RealFIleType_Command_illustration.png)
+
 ### 1. Identify a Single Mystery File
 ```powershell
 Get-RealFileType -Path ".\unknown_payload"
